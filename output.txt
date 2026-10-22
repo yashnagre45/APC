@@ -1,0 +1,4 @@
+Java is easy to learn.
+Java is programming language.
+Java is used for data science.
+Java is easy and powerful.

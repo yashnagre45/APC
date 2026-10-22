@@ -1,0 +1,4 @@
+Python is easy to learn.
+Python is programming language.
+Python is used for data science.
+Python is easy and powerful.
